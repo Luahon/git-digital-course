@@ -4,3 +4,4 @@
 
 * Comando Push
 * Comando Pull
+* Comando fetch
