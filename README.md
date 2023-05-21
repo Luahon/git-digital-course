@@ -2,4 +2,5 @@
 
 ## Salvando alterações
 
-*Comnado Push
+* Comando Push
+* Comando Pull
